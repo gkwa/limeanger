@@ -3,7 +3,7 @@ module github.com/taylormonacelli/limeanger
 go 1.21.1
 
 require (
-	github.com/pterm/pterm v0.12.80
+	github.com/pterm/pterm v0.12.81
 	github.com/taylormonacelli/goldbug v0.0.6
 )
 
